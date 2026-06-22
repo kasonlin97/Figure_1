@@ -32,7 +32,7 @@ sample_amplicon_counts = (
 )
 
 print(sample_amplicon_counts)
-sample_amplicon_counts.to_csv("/Users/admin/MSc_Project/Figure_1/Figure1d.csv", index=False)
+sample_amplicon_counts.to_csv("/Users/admin/MSc_Project/Figure_1/Figure1e.csv", index=False)
 
 
 print(ecDNA_project_counts)
